@@ -1,7 +1,7 @@
 # Ekramy_Data_Science_Portfolio
 Data Science Projects
 
-# Predicting Loan Defaults using Deep Learning with Keras & Tensorflow
+# [Predicting Loan Defaults using Deep Learning with Keras & Tensorflow]https://github.com/Ekramy-Younan/Lending-Club-Loan
 Problem Statement:
 For companies like Lending Club, predicting loan default with high accuracy is very important. Using the historical Lending Club data from 2007 to 2015, build a deep learning model to predict the chance of default for future loans.
 
