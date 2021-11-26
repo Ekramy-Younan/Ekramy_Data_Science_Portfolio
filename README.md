@@ -22,3 +22,41 @@ The data set used here can be downloaded from here. The CSV file contains comple
   * In Latin America, a popular method called Proxy Means Test (PMT) uses an algorithm to verify income qualification. With PMT, agencies use a model that considers a family’s observable household attributes like the material of their walls and ceiling or the assets found in their homes to classify them and predict their level of need.
   * While this is an improvement, accuracy remains a problem as the region’s population grows and poverty declines.
   * The Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
+
+# [Project 3: Mercedes-Benz-Greener-Manufacturing](https://github.com/Ekramy-Younan/Mercedes-Benz-Greener-Manufacturing)
+**Description:
+
+Reduce the time a Mercedes-Benz spends on the test bench.
+
+**Problem Statement Scenario:
+
+"Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has stood for important automotive innovations. These include the passenger safety cell with a crumple zone, the airbag, and intelligent assistance systems. 
+Mercedes-Benz applies for nearly 2000 patents per year, making the brand the European leader among premium carmakers. Mercedes-Benz is the leader in the premium car industry. With a huge selection of features and options, customers can choose the customized Mercedes-Benz of their dreams. 
+To ensure the safety and reliability of every unique car configuration before they hit the road, the company’s engineers have developed a robust testing system. As one of the world’s biggest manufacturers of premium cars, safety and efficiency are paramount on Mercedes-Benz’s production lines. 
+However, optimizing the speed of their testing system for many possible feature combinations is complex and time-consuming without a powerful algorithmic approach. You are required to reduce the time that cars spend on the test bench. 
+Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Mercedes-Benz’s standards."
+
+
+# [Project 4: Uber-Fare-Prediction](https://github.com/Ekramy-Younan/Uber-Fare-Prediction)
+
+**Description:
+
+Design an algorithm which will tell the fare to be charged for a passenger.
+
+**Problem Statement Scenario:
+
+A fare calculator helps a customer in identifying the fare valid for the trip. They are often used by passengers who are new to a city or tourists to get an estimate of travel costs. You are provided with a dataset with features like fare amount, pickup and drop location, passenger count, and so on.
+
+# [Project 5: Amazon-Employee-Access](https://github.com/Ekramy-Younan/Amazon.com---Employee-Access)
+
+**Description:
+
+Design an algorithm to accurately predict the access status to certain resources of employees
+
+**Problem Statement Scenario:
+
+When employees start working at an organization, they first need to obtain the computer access necessary to fulfil their role. This access may allow employees to read/manipulate resources through various applications or web portals.  
+It is assumed that employees fulfilling the functions of a given role will access the same or similar resources. Often, employees figure out the access they need as they encounter roadblocks during their daily work (such as, not being able to log into a reporting portal). 
+A knowledgeable supervisor then takes time to manually grant the access needed to overcome the obstacles. As employees change roles within a company, this access discovery/recovery cycle wastes a non-trivial amount of time and money. 
+There is a considerable amount of data regarding employees’ roles within an organization and the resources to which they have access. Given the data related to current employees and their provisioned access, models can be built that automatically determine access privileges as employees enter and leave roles within a company. 
+These auto-access models seek to minimize the human involvement required to grant or revoke employee access.
