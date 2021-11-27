@@ -12,6 +12,7 @@ Dataset:
 The data set used here can be downloaded from here. The CSV file contains complete loan data for all loans issued through 2007–2015, including the current loan status and payment information. Additional features include annual income, public records, revolving balance, and others.
 
 ![](/Images/Lending_Club_Loan_Correlation.png)
+
 We only focus on the grids of yellow or very light green. After comparing with the feature description again, I decided to drop:’revol.bal’, ‘days.with.cr.line’, ‘installment’, ‘revol.bal’ revol.bal, day.with.cr.line, installment can represent by annual income. revol.util can represent by int.rate.
 
 
@@ -27,6 +28,7 @@ We only focus on the grids of yellow or very light green. After comparing with t
   * The Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
 
 ![](/Images/Income_Qualification_Correlation.png)
+
 Create correlation matrix
 Select upper triangle of correlation matrix
 Find index of feature columns with correlation greater than 0.95
@@ -46,6 +48,7 @@ However, optimizing the speed of their testing system for many possible feature 
 Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Mercedes-Benz’s standards."
 
 ![](/Images/Mercedes_Change_in_target_value.png)
+
 There doesn't seem to be anything overly suspicious here - looks like a random sort.
 
 
@@ -60,6 +63,7 @@ Design an algorithm which will tell the fare to be charged for a passenger.
 A fare calculator helps a customer in identifying the fare valid for the trip. They are often used by passengers who are new to a city or tourists to get an estimate of travel costs. You are provided with a dataset with features like fare amount, pickup and drop location, passenger count, and so on.
 
 ![](/Images/Uber_fare_prediction_fare_amount.png)
+
 In distribution plot also it can be seen that there are some values which are negative fare.
 
 
