@@ -7,6 +7,28 @@ Data Science Projects
  * ![image](https://user-images.githubusercontent.com/76533174/154201106-e25da8c8-f807-405c-830c-791a5680a0e6.png)
  * ![image](https://user-images.githubusercontent.com/76533174/154201125-ba9ee8a5-9715-408f-9ae7-13c2d831b7d1.png)
 
+# [Project: Natural Learning Processing - using Beautiful Soup]
+ * Gentle Start to Natural Language Processing using Python
+ * Reference: https://towardsdatascience.com/gentle-start-to-natural-language-processing-using-python-6e46c07addf3
+ * What is NLP ?
+   - Natural language processing (NLP) is about developing applications and services that are able to understand human languages.
+   - Some Practical examples of NLP are speech recognition for eg: google voice search, understanding what the content is about or sentiment analysis etc.
+ * How do I Start with NLP using Python?
+   - The natural language toolkit (NLTK) is the most popular library for natural language processing (NLP) which was written in Python and has a big community behind it.
+   - NLTK also is very easy to learn, actually, it’s the easiest natural language processing (NLP) library that you’ll use.
+   - In this NLP Tutorial, we will use Python NLTK library.
+
+* First, we will grab a webpage and analyze the text to see what the page is about.
+* urllib module will help us to crawl the webpage
+* It’s pretty clear from the link that the page is about SpaceX now let us see whether our code is able to correctly identify the page’s context.
+* We will use Beautiful Soup which is a Python library for pulling data out of HTML and XML files. We will use beautiful soup to clean our webpage text of HTML tags.
+
+* Count word Frequency
+* nltk offers a function FreqDist() which will do the job for us. Also, we will remove stop words (a, at, the, for etc) from our web page as we don't need them to hamper our word frequency count.
+* We will plot the graph for most frequently occurring words in the webpage in order to get the clear picture of the context of the web page
+* ![image](https://user-images.githubusercontent.com/76533174/154213786-26450d4b-fe61-401b-bf2e-63360ad59cd7.png)
+
+
 # [Project: Predicting Loan Defaults using Deep Learning with Keras & Tensorflow](https://github.com/Ekramy-Younan/Lending-Club-Loan)
 Problem Statement:
 For companies like Lending Club, predicting loan default with high accuracy is very important. Using the historical Lending Club data from 2007 to 2015, build a deep learning model to predict the chance of default for future loans.
