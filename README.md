@@ -1,7 +1,13 @@
 # Ekramy_Data_Science_Portfolio
 Data Science Projects
 
-# [Project 1: Predicting Loan Defaults using Deep Learning with Keras & Tensorflow](https://github.com/Ekramy-Younan/Lending-Club-Loan)
+# [Project: Natural Learning Processing - using DecisionTreeClassifier]
+ * I used Congenital_disorders and Infectious_diseases from the Wikipedia folder.
+ * The following metrics table for the max features in [1,5,10,50,100,500] and max_depth in [3 & 2].
+ * ![image](https://user-images.githubusercontent.com/76533174/154201106-e25da8c8-f807-405c-830c-791a5680a0e6.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/154201125-ba9ee8a5-9715-408f-9ae7-13c2d831b7d1.png)
+
+# [Project: Predicting Loan Defaults using Deep Learning with Keras & Tensorflow](https://github.com/Ekramy-Younan/Lending-Club-Loan)
 Problem Statement:
 For companies like Lending Club, predicting loan default with high accuracy is very important. Using the historical Lending Club data from 2007 to 2015, build a deep learning model to predict the chance of default for future loans.
 
@@ -16,7 +22,7 @@ The data set used here can be downloaded from here. The CSV file contains comple
 We only focus on the grids of yellow or very light green. After comparing with the feature description again, I decided to drop:’revol.bal’, ‘days.with.cr.line’, ‘installment’, ‘revol.bal’ revol.bal, day.with.cr.line, installment can represent by annual income. revol.util can represent by int.rate.
 
 
-# [Project 2: Income-Qualification](https://github.com/Ekramy-Younan/Income-Qualification)
+# [Project: Income-Qualification](https://github.com/Ekramy-Younan/Income-Qualification)
 
 **DESCRIPTION
   * Identify the level of income qualification needed for the families in Latin America.
@@ -34,7 +40,7 @@ Select upper triangle of correlation matrix
 Find index of feature columns with correlation greater than 0.95
 
 
-# [Project 3: Mercedes-Benz-Greener-Manufacturing](https://github.com/Ekramy-Younan/Mercedes-Benz-Greener-Manufacturing)
+# [Project: Mercedes-Benz-Greener-Manufacturing](https://github.com/Ekramy-Younan/Mercedes-Benz-Greener-Manufacturing)
 **Description:
 
 Reduce the time a Mercedes-Benz spends on the test bench.
@@ -52,7 +58,7 @@ Others will work with a dataset representing different permutations of features 
 There doesn't seem to be anything overly suspicious here - looks like a random sort.
 
 
-# [Project 4: Uber-Fare-Prediction](https://github.com/Ekramy-Younan/Uber-Fare-Prediction)
+# [Project: Uber-Fare-Prediction](https://github.com/Ekramy-Younan/Uber-Fare-Prediction)
 
 **Description:
 
@@ -67,7 +73,7 @@ A fare calculator helps a customer in identifying the fare valid for the trip. T
 In distribution plot also it can be seen that there are some values which are negative fare.
 
 
-# [Project 5: Amazon-Employee-Access](https://github.com/Ekramy-Younan/Amazon.com---Employee-Access)
+# [Project: Amazon-Employee-Access](https://github.com/Ekramy-Younan/Amazon.com---Employee-Access)
 
 **Description:
 
