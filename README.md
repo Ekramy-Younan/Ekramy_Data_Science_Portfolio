@@ -1,6 +1,44 @@
 # Ekramy_Data_Science_Portfolio
 Data Science Projects
 
+# [Hadoop Installation]
+![image](https://user-images.githubusercontent.com/76533174/155047078-85f1d2bd-c2eb-4efd-92ca-c11e30f55bde.png)
+![image](https://user-images.githubusercontent.com/76533174/155047102-5a4b0f9f-1179-4454-a2a5-ae344ed12217.png)
+![image](https://user-images.githubusercontent.com/76533174/155047115-54a2b423-f71f-4fe7-9e2b-aa58bd74a098.png)
+![image](https://user-images.githubusercontent.com/76533174/155047134-1f85b643-0036-4d93-8306-b5ce606293e3.png)
+
+# [Hadoop - MapReduce - Modify mapper program to make a reasonable word count program]
+![image](https://user-images.githubusercontent.com/76533174/155048858-992a5381-ca00-4afe-a3a9-da84c97a50b0.png)
+![image](https://user-images.githubusercontent.com/76533174/155048941-0ecddbdb-e0db-4ee0-be7c-83f4d440b8f7.png)
+![image](https://user-images.githubusercontent.com/76533174/155048976-26bbcfe1-89f9-4ba2-9bd3-23bf28b023e0.png)
+![image](https://user-images.githubusercontent.com/76533174/155048996-870cb8e3-6726-4cfd-9c09-9f072a20bab3.png)
+![image](https://user-images.githubusercontent.com/76533174/155049025-d7a2d63e-2c17-483c-b154-7cc1cc06fee4.png)
+
+# [Hadoop - Use hadoop to run mapreduce]
+![image](https://user-images.githubusercontent.com/76533174/155049099-7ebbb01a-d20c-485d-a69c-1853f0d2d168.png)
+![image](https://user-images.githubusercontent.com/76533174/155049126-e281ceea-ac3f-4d27-b26d-9fe084260701.png)
+![image](https://user-images.githubusercontent.com/76533174/155049229-dbb9cba6-e167-4637-9037-476fbbe37dc5.png)
+
+# [Hadoop - Word Histogram of your favorite book]
+![image](https://user-images.githubusercontent.com/76533174/155049354-7645fc71-dd6d-4d0a-b42f-bab389de3d14.png)
+![image](https://user-images.githubusercontent.com/76533174/155049369-28fbb006-40e9-4736-8587-3004ab3b3f5d.png)
+![image](https://user-images.githubusercontent.com/76533174/155049463-1aaac3ba-0e8b-4835-9586-80c876605bc1.png)
+![image](https://user-images.githubusercontent.com/76533174/155049548-1e016726-70f8-4c27-bafd-3497eec86636.png)
+![image](https://user-images.githubusercontent.com/76533174/155049595-e0047241-3f43-4a98-af97-da97f574b3ab.png)
+
+# [Apache Spark - Verify that you can write work count in spark]
+![image](https://user-images.githubusercontent.com/76533174/155050892-37213db2-4f85-47f0-bc6c-bbebf71d8c11.png)
+![image](https://user-images.githubusercontent.com/76533174/155050932-5afec84f-0061-401c-a323-4a44a9ccb621.png)
+![image](https://user-images.githubusercontent.com/76533174/155051143-be9f5d6c-f3bc-4b8f-82e0-daed4836311f.png)
+![image](https://user-images.githubusercontent.com/76533174/155051168-3ba091f5-b03a-485b-8fab-d7602cb6ea11.png)
+![image](https://user-images.githubusercontent.com/76533174/155051187-50703dd8-aace-402b-a58d-d2a78cc5ef91.png)
+![image](https://user-images.githubusercontent.com/76533174/155051221-7c53d0eb-aa78-4e5b-a60c-f7bff27a8f43.png)
+![image](https://user-images.githubusercontent.com/76533174/155051245-a37493f4-ad13-44b2-b0f5-91fbf00f3bb8.png)
+
+# [Apache Spark - Create a function that  takes a word string as argument and returns the same word in lowercase and without any punctuation, or trailing spaces]
+![image](https://user-images.githubusercontent.com/76533174/155052271-44bace66-5f45-4943-81f0-198c37138ab1.png)
+![image](https://user-images.githubusercontent.com/76533174/155052301-2c8aaad9-5248-468a-8cbf-f99b6712cb03.png)
+
 # [Project: Natural Learning Processing - using DecisionTreeClassifier]
  * I used Congenital_disorders and Infectious_diseases from the Wikipedia folder.
  * The following metrics table for the max features in [1,5,10,50,100,500] and max_depth in [3 & 2].
