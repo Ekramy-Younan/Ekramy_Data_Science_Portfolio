@@ -1,7 +1,7 @@
 # Ekramy_Data_Science_Portfolio
 Data Science Projects
 
-# [Natural Language Processing (NLP) - Topic Analysis of Review Data]
+# [Natural Language Processing (NLP) - Topic Analysis of Review Data using Latent Dirichlet Allocation(LDA)]
 ![image](https://user-images.githubusercontent.com/76533174/159614022-76ebd3b6-adc3-4d68-8118-d4f0e3ae3c89.png)
 ![image](https://user-images.githubusercontent.com/76533174/159614103-467981f6-85a9-4fae-b350-83035243e06b.png)
 ![image](https://user-images.githubusercontent.com/76533174/159614242-aaa3893a-4b6f-472a-9d7f-a1764ae36eff.png)
